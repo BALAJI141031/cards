@@ -1,5 +1,14 @@
 .socialMediaCon {
-  width: 800px;
+  width: 600px;
   margin: 50px;
   /* height: 800px; */
+}
+.socialMediaCon:hover {
+  background-color: rgb(236, 236, 236);
+  cursor: pointer;
+}
+
+.container:hover {
+  background-color: rgb(236, 236, 236);
+  cursor: pointer;
 }

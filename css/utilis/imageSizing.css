@@ -1,11 +1,11 @@
 .commonImg {
-  size: 750px;
-  width: 750px;
+  size: 550px;
+  width: 550px;
 }
 
 .container {
-  width: 750px;
-  margin: 50px;
+  width: 550px;
+  margin: 30px;
 }
 
 .profile {
@@ -13,14 +13,14 @@
 }
 
 .profileSize {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 
 .textOverlay {
   background: url(../../images/overlay.jpg);
   background-size: cover;
-  height: 1000px;
-  width: 1000px;
+  height: 400px;
+  width: 400px;
   /* background-repeat: no-repeat; */
 }
