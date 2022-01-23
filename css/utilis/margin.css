@@ -1,0 +1,35 @@
+.paraText {
+  margin: 0px;
+}
+.headingMargin {
+  margin-bottom: 4px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 4px;
+}
+
+.badgeMargin {
+  margin: 0px;
+}
+
+/* .m-rating {
+  margin-left: 0.9rem;
+} */
+
+.rightListItem {
+  margin-left: 10rem;
+}
+
+.offerIcon {
+  margin-right: 2rem;
+}
+.leftMargin {
+  margin-left: 2rem;
+}
+
+.topMargin {
+  margin-top: 3rem;
+}
+.bottomMargin {
+  margin-bottom: 3rem;
+}

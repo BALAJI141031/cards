@@ -1,0 +1,12 @@
+.containerRadius {
+  border-radius: 10px;
+}
+
+.genralBorder {
+  border-style: solid;
+  border-width: 1px;
+}
+
+.shadow {
+  box-shadow: 10px 5px 5px;
+}

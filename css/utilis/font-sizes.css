@@ -1,0 +1,28 @@
+h1 {
+  font-size: 54px;
+}
+p {
+  font-size: 35px;
+}
+
+.ratingIcon {
+  font-size: 2.5rem;
+}
+.rating-text {
+  font-size: 2.4rem;
+}
+.ratingContainer {
+  width: 10rem;
+}
+
+.offerIcon {
+  font-size: 3rem;
+}
+
+.offerText {
+  font-size: 2.8rem;
+}
+
+.profileIcon {
+  font-size: 5rem;
+}

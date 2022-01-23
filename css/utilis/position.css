@@ -1,0 +1,11 @@
+.relativeImage {
+  position: relative;
+}
+
+.badge {
+  position: absolute;
+}
+.latestItem {
+  top: 0;
+  left: 0;
+}

@@ -1,0 +1,21 @@
+@import url("./css/main.css");
+
+.headColor {
+  color: var(--textColor);
+}
+
+.badgeBackground {
+  background-color: rgb(250, 114, 65);
+}
+
+/* ul {
+  background-color: coral;
+} */
+
+li {
+  text-align: center;
+}
+
+.overlayColor {
+  color: var(--textColor);
+}

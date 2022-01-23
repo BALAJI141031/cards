@@ -1,0 +1,41 @@
+.flexRate {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* justify-content: space-between; */
+}
+
+.boxType {
+  display: inline;
+}
+
+.spaceetween {
+  display: flex;
+  /* margin-left: auto; */
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.autoMargin {
+  margin-left: auto;
+  margin-right: 1rem;
+}
+
+.overlayText {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  /* align-items: flex-end; */
+}
+
+.centerContent {
+  align-content: center;
+}
+
+.allCenter {
+  height: 100vh;
+  display: flex;
+  /* flex-direction: column; */
+  align-items: center;
+  justify-content: space-around;
+}
